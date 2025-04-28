@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OmPrakash-source
+- 👋 Hi, I’m Omprakash
 - 👀 I’m interested in Intership or real world project
 - 🌱 I’m currently learning JAVA,CPP,PHP for backend
 - 💞️ I’m looking to collaborate on BAckend project's
